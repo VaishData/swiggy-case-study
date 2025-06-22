@@ -60,7 +60,7 @@ The aim was to:
 ## 🔗 Connect With Me
 
 **Author:** Vaisakh M  
-**LinkedIn:** [linkedin.com/in/vaisakh-m]((https://www.linkedin.com/in/vaisakh-m24/))  
+**LinkedIn:** [linkedin.com/in/vaisakh-m](https://www.linkedin.com/in/vaisakh-m24/)  
 **GitHub:** [github.com/VaishData](https://github.com/VaishData)
 
 ---
